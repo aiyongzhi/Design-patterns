@@ -1,6 +1,6 @@
 package cashOperate;
 
-public class CashRebate extends CashOperate{
+public class CashRebate implements CashStrategy{
     private final double moneyRebate;
 
     public CashRebate(double moneyRebate) {
@@ -11,4 +11,5 @@ public class CashRebate extends CashOperate{
     public double acceptCash(double money) {
         return money*moneyRebate;
     }
+
 }

@@ -1,10 +1,11 @@
 package service;
 
 import CashOperateFactory.CashFactory;
-import cashOperate.CashOperate;
+import cashOperate.CashStrategy;
+
 public class finallyCash {
     //利用多态，提高代码的可复用性，拓展性，可维护性
-    private static double calculate(CashOperate cashOperate,int totalPrice){
+    private static double calculate(CashStrategy cashOperate, int totalPrice){
         return cashOperate.acceptCash(totalPrice);
     }
     public static double discount(String type,int totalPrice){

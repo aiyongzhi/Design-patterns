@@ -1,7 +1,6 @@
 package CashOperateFactory;
 
 import cashOperate.CashNormal;
-import cashOperate.CashOperate;
 import cashOperate.CashRebate;
 import cashOperate.CashReturn;
 
