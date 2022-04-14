@@ -1,5 +1,7 @@
 package 面向对象一;
 
+import 面向对象一.calculatorFactory.calculatorFactory;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -19,7 +21,7 @@ public class Main {
             operate=reader.readLine();
             System.out.println("请输入第二个数据");
             num2=reader.readLine();
-            Calculator calculator=Calculator.getINSTANCE();
+            Calculator calculator= calculatorFactory.getINSTANCE().createCalculator();
             double res= calculator.calculate(Double.parseDouble(num1), operate, Double.parseDouble(num2));
             System.out.println(res);
         } catch (IOException e) {
