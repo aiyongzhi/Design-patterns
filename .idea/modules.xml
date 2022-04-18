@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/大话设计模式第一章/大话设计模式第一章.iml" filepath="$PROJECT_DIR$/大话设计模式第一章/大话设计模式第一章.iml" />
+      <module fileurl="file://$PROJECT_DIR$/工厂模式.iml" filepath="$PROJECT_DIR$/工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/抽象工厂模式.iml" filepath="$PROJECT_DIR$/抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" filepath="$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" />
+    </modules>
+  </component>
+</project>

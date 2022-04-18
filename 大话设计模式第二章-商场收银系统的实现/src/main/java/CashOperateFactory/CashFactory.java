@@ -4,7 +4,7 @@ import cashOperate.CashNormal;
 import cashOperate.CashRebate;
 import cashOperate.CashReturn;
 
-/* 方法工厂 */
+/* 方法工厂 设计模式+工厂 */
 public class CashFactory {
     private CashFactory(){}
     public static CashNormal createCashNormal(){
