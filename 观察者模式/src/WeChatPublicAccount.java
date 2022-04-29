@@ -6,6 +6,12 @@ public class WeChatPublicAccount implements Subject{
     private final List<Observe> weiXinUserList=new ArrayList<>();
     @Override
     public void attach(Observe observe) {
+        if(observe==null){
+            throw new NullPointerException("observe对象不能为空");
+        }
+        if(weiXinUserList.contains(observe)){
+            return;
+        }
         weiXinUserList.add(observe);
     }
     @Override

@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/中介者模式/中介者模式.iml" filepath="$PROJECT_DIR$/中介者模式/中介者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/享元模式/享元模式.iml" filepath="$PROJECT_DIR$/享元模式/享元模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代理模式/代理模式.iml" filepath="$PROJECT_DIR$/代理模式/代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/原型模式/原型模式.iml" filepath="$PROJECT_DIR$/原型模式/原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/命令模式/命令模式.iml" filepath="$PROJECT_DIR$/命令模式/命令模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/大话设计模式第一章/大话设计模式第一章.iml" filepath="$PROJECT_DIR$/大话设计模式第一章/大话设计模式第一章.iml" />
       <module fileurl="file://$PROJECT_DIR$/工厂模式.iml" filepath="$PROJECT_DIR$/工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/建造者模式/建造者模式.iml" filepath="$PROJECT_DIR$/建造者模式/建造者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/抽象工厂模式.iml" filepath="$PROJECT_DIR$/抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/桥接模式/桥接模式.iml" filepath="$PROJECT_DIR$/桥接模式/桥接模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/模板方法模式/模板方法模式.iml" filepath="$PROJECT_DIR$/模板方法模式/模板方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/状态模式/状态模式.iml" filepath="$PROJECT_DIR$/状态模式/状态模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" filepath="$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/组合模式/组合模式.iml" filepath="$PROJECT_DIR$/组合模式/组合模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/装饰者模式/装饰者模式.iml" filepath="$PROJECT_DIR$/装饰者模式/装饰者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/观察者模式/观察者模式.iml" filepath="$PROJECT_DIR$/观察者模式/观察者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式.iml" filepath="$PROJECT_DIR$/设计模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式之禅/设计模式之禅.iml" filepath="$PROJECT_DIR$/设计模式之禅/设计模式之禅.iml" />
+      <module fileurl="file://$PROJECT_DIR$/责任链模式/责任链模式.iml" filepath="$PROJECT_DIR$/责任链模式/责任链模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/迭代器模式/迭代器模式.iml" filepath="$PROJECT_DIR$/迭代器模式/迭代器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/适配器模式/适配器模式.iml" filepath="$PROJECT_DIR$/适配器模式/适配器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/门面模式/门面模式.iml" filepath="$PROJECT_DIR$/门面模式/门面模式.iml" />
     </modules>
   </component>
 </project>
